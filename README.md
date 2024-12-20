@@ -3,10 +3,9 @@ Our Node.js team is a group of highly skilled and experienced developers who spe
 
 <div class="stats" align="center">
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nodeteamdev)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nodeteamdev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodeteamdev&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodeteamdev)](https://github.com/anuraghazra/github-readme-stats)
 </div>
