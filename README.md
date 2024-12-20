@@ -3,7 +3,7 @@ Our Node.js team is a group of highly skilled and experienced developers who spe
 
 <div class="stats" align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nodeteamdev&count_private=true&theme=algolia&border_radius=20)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nodeteamdev)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nodeteamdev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
 
